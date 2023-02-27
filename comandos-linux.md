@@ -1,7 +1,5 @@
-# Linux_do_Zero_Guia_de_Comandos
-DIO Linux do Zero: guia de comandos. Aqui estão, resumidamente, todos os comandos do curso e suas utilidades
----
-
+# Linux do Zero - Guia de Comandos
+## Aqui estão, resumidamente, todos os comandos do curso e suas utilidades
 - Comandos essenciais
     - `comando --help` informa o que faz o comando e informa todos os argumentos utilizáveis, junto com suas funções
     x: `ls --help` 

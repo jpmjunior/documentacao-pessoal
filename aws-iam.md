@@ -11,6 +11,8 @@ Permite o gerenciamento seguro dos serviços e recursos da AWS através de cria�
   - Managed policy: permissões disponíveis para várias identidades.
 - `IAM Permissions:` nível mais baixo da hierarquia, determina se uma identidade pode ou não tomar uma acão sobre determinado recurso (Allow/Deny);
 
+![image](https://user-images.githubusercontent.com/15961779/223550459-33baa9a9-0cae-4d35-947c-ec535a58d42d.png)
+
 ## Boas práticas
 - Não utilizar conta raiz para desenvolvimento;
 - Criar usuários individuais;
